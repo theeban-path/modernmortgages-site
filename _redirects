@@ -1,0 +1,7 @@
+# Old site paths
+/Links      /links/     301
+/ManageLinks  /links/   301
+/calculator  /#calculators  301
+/apply  https://velocity-client.newton.ca/en/client/journey?shortCode=3vnqzjtlrdep  302
+/book   https://meet.theeban.ca  302
+/app    https://www.dlcapp.ca/app/theeban-pathmanathan  302
