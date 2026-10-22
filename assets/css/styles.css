@@ -63,7 +63,7 @@ p{margin:0 0 1em}
 .site-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.88);backdrop-filter:saturate(180%) blur(14px);-webkit-backdrop-filter:saturate(180%) blur(14px);border-bottom:1px solid transparent;transition:border-color .2s}
 .site-header.scrolled{border-bottom-color:var(--line)}
 .nav{display:flex;align-items:center;justify-content:space-between;height:76px;gap:24px}
-.brand img{height:42px;width:auto}
+.brand img{height:44px;width:auto}
 .nav-links{display:flex;gap:30px;list-style:none;margin:0;padding:0}
 .nav-links a{text-decoration:none;font-weight:600;font-size:.95rem;color:var(--ink-2)}
 .nav-links a:hover{color:var(--orange)}
@@ -78,7 +78,7 @@ p{margin:0 0 1em}
   .mobile-menu a{display:block;padding:12px 4px;text-decoration:none;font-weight:600;border-bottom:1px solid var(--line)}
   .mobile-menu .btn{width:100%;margin-top:12px;border-bottom:none}
 }
-@media (max-width:520px){.brand img{height:32px}.nav-cta .btn-primary{display:none}.nav{height:66px}}
+@media (max-width:520px){.brand img{height:34px}.nav-cta .btn-primary{display:none}.nav{height:66px}}
 
 /* Hero */
 .hero{position:relative;padding:72px 0 88px;overflow:hidden;background:
